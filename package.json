@@ -1,0 +1,14 @@
+{
+  "name": "vuejs-TheNetNinja",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:surya3214/vuejs-TheNetNinja.git",
+  "author": "surya3214 <surya3214@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-server-livereload": "^1.9.2"
+  }
+}
